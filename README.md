@@ -28,6 +28,7 @@ Think of me as the person who makes data **go from 🗂️ chaos → 📊 clarit
 - 📕 Fuelled by books + curiosity  
 
 
+### Reach out to me on [LinkedIn](https://www.linkedin.com/in/vedabommareddy/)
 
 <!--
 **vedaBommareddy23/vedaBommareddy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
